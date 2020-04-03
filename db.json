@@ -22,22 +22,22 @@
   ],
   "users":[
     {
-      "id": 1,
-      "Username": "Hafize Taşdemir",
-      "E-Mail": "tasdemir@outlook.com",
-      "Job":"İngilizce Öğretmeni"
+      "userId": 1,
+      "username": "Hafize Taşdemir",
+      "email": "tasdemir@outlook.com",
+      "job":"İngilizce Öğretmeni"
     },
     {
-      "id": 2,
-      "Username": "Elife Demir",
-      "E-Mail": "elifee@outlook.com",
-      "Job":"Fen Bilgisi Öğretmeni"
+      "userId": 2,
+      "username": "Elife Demir",
+      "email": "elifee@outlook.com",
+      "job":"Fen Bilgisi Öğretmeni"
     },
     {
-      "id": 3,
-      "Username": "Paul Walker",
-      "E-Mail": "walkerow@outlook.com",
-      "Job":"Artist"
+      "userId": 3,
+      "username": "Paul Walker",
+      "email": "walkerow@outlook.com",
+      "job":"Artist"
     }
   ]
 }
