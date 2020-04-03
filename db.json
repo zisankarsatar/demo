@@ -7,37 +7,31 @@
       "title": "Biyoloji,
       "body": "Hayatta kalabilen en güçlü olan tür değildir, en zeki olandır. Değişime en çok adapte olabilendir.",
       "createDate: "01.01.2020"
-    },
-    {
+    },{
       "userId": 2,
       "id": 2,
       "title": "Hayat ",
       "body": "Hayat, bisiklete binmek gibidir. Dengede kalmak için hareket etmek zorundasınız.",
       "createDate: "16.12.1998"
-    },
-    
-    {
+    },{
       "userId": 5,
       "id": 3,
       "title": "Yaşam ",
       "body": "Eğer Bir Gün Hız Yaptığım İçin Ölürsem Ağlamayın Çünkü Ben O An Gülümsüyordum.",
       "createDate: "01.05.2007"
-    },
-    {
+    },{
       "userId": 3,
       "id": 4,
       "title": "Dünya",
       "body": "Eğer bir başka gezegeni Dünya’ya dönüştürecek gücümüz varsa; o zaman Dünya’yı da eski Dünya haline getirmeye gücümüz var demektir.",
       "createDate: "01.01.2009"
-    },
-    {
+    },{
       "userId": 4,
       "id": 5,
       "title": "Başarı",
       "body": "…Başarısızlık da bir seçenektir. Eğer ki başarısız olmuyorsanız, yeterince girişimde bulunmuyorsunuz demektir!",
       "createDate: "01.01.2006"
-    },
-    {
+    },{
       "userId": 5,
       "id": 6,
       "title": "Başarı",
@@ -51,27 +45,22 @@
       "username": "Charles Robert Darwin",
       "email": "darwin@gmail.com",
       "job":"Biyolog"
-    },
-    {
+    },{
       "id": 2,
       "username": "Albert Einstein",
       "email": "enistein@outlook.com",
       "job":"Mucit"
-    },
-    {
+    },{
       "id": 3,
       "username": "Neil deGrasse Tyson",
       "email": "tyson@outlook.com",
       "job":"Astrofizik, Yazar"
-    }
-    ,
-    {
+    },{
       "id": 4,
       "username": "Elon Musk",
       "email": "elon@musk.com",
       "job" : "Girişimci"
-    },
-    {
+    },{
       "id": 5,
       "username": "Paul Walker",
       "email": "walkerow@outlook.com",
