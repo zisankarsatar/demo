@@ -43,27 +43,37 @@
       "id": 1,
       "username": "Charles Robert Darwin",
       "email": "darwin@gmail.com",
-      "job":"Biyolog"
+      "job":"Biyolog",
+      "ilgi":"Biyoloji, Maymun",
+      "okul":"Edinburgh Üniversitesi"
     },{
       "id": 2,
       "username": "Albert Einstein",
       "email": "enistein@outlook.com",
-      "job":"Mucit"
+      "job":"Mucit",
+      "ilgi":"Enerji, Buzdolabı",
+      "okul":"---"
     },{
       "id": 3,
       "username": "Neil deGrasse Tyson",
       "email": "tyson@outlook.com",
-      "job":"Astrofizik, Yazar"
+      "job":"Astrofizik, Yazar",
+      "ilgi":"Fizik, Gezegen, Uzay",
+      "okul":"Columbia Üniversitesi"
     },{
       "id": 4,
       "username": "Elon Musk",
       "email": "elon@musk.com",
-      "job" : "Girişimci"
+      "job" : "Girişimci",
+      "ilgi":"Yazılım, Teknoloji, Uzay",
+      "okul":"Pensilvanya Üniversitesi"
     },{
       "id": 5,
       "username": "Paul Walker",
       "email": "walkerow@outlook.com",
-      "job":"Artist"
+      "job":"Artist",
+      "ilgi":"Araba, Hız, Kamera",
+      "okul":"Foreman Üniversitesi"
     }
   ]
 }
