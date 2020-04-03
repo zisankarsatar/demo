@@ -22,19 +22,19 @@
   ],
   "users":[
     {
-      "userId": 1,
+      "id": 1,
       "Username": "Hafize Taşdemir",
       "E-Mail": "tasdemir@outlook.com",
       "Job":"İngilizce Öğretmeni"
     },
     {
-      "userId": 2,
+      "id": 2,
       "Username": "Elife Demir",
       "E-Mail": "elifee@outlook.com",
       "Job":"Fen Bilgisi Öğretmeni"
     },
     {
-      "userId": 3,
+      "id": 3,
       "Username": "Paul Walker",
       "E-Mail": "walkerow@outlook.com",
       "Job":"Artist"
