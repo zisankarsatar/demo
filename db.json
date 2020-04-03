@@ -1,1 +1,43 @@
 
+{
+  "posts" :[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Hello anacım",
+      "body": "my notes"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "bonjorno ",
+      "body": "heelallals"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    }
+  ],
+  "users":[
+    {
+      "userId": 1,
+      "Username": "Hafize Taşdemir",
+      "E-Mail": "tasdemir@outlook.com",
+      "Job":"İngilizce Öğretmeni"
+    },
+    {
+      "userId": 2,
+      "Username": "Elife Demir",
+      "E-Mail": "elifee@outlook.com",
+      "Job":"Fen Bilgisi Öğretmeni"
+    },
+    {
+      "userId": 3,
+      "Username": "Paul Walker",
+      "E-Mail": "walkerow@outlook.com",
+      "Job":"Artist"
+    }
+  ]
+}
