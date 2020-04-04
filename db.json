@@ -60,6 +60,24 @@
       "title": "Geçmiş",
       "body": "Geçmişe dönmek başka geçmişi silmek başka. Bir kere aktı mı zamanın içinden suyun yolu değişmez.",
       "createDate": "05.04.2010"
+    },{
+      "userId": 1,
+      "id": 11,
+      "title": "Fikir",
+      "body": "Bir fikri öldürmenin en iyi yolu, onu yanlış savunmaktır..",
+      "createDate": "05.09.2009"
+    },{
+      "userId": 1,
+      "id": 12,
+      "title": "Bilgi",
+      "body": "`Bilgi kuşkuyla başlar.` Sokrates'in sözüdür. Çok mantıksız şeylerde bile Tanrı'nın kerameti dediğimiz anda kuşkuya yer kalmaz.",
+      "createDate": "15.01.2000"
+    },{
+      "userId": 2,
+      "id": 13,
+      "title": "Balık",
+      "body": "Balıkların yüzme kesesi başlangıçta suda batmamak gibi tek bir amaca hizmet eden bir organın, solunum gibi bambaşka bir amaca hizmet eden bir organa dönüşebildiğini açıkça gösteren, son derece önemli bir bulguya işaret eder.",
+      "createDate": "25.10.2008"
     }
   ],
   "users":[
