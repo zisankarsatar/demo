@@ -36,6 +36,12 @@
       "title": "Başarı",
       "body": "Her an gitmeye hazırım, gittiğim zaman ne için gittiğimi bilmeyeceğim.",
       "createDate": "01.01.2015"
+    },{
+      "userId": 2,
+      "id": 7,
+      "title": "Başarı",
+      "body": "Delilik, aynı şeyi tekrar tekrar yapıp farklı sonuçları beklemektir.",
+      "createDate": "27.07.1900"
     }
   ],
   "users":[
