@@ -42,6 +42,24 @@
       "title": "Başarı",
       "body": "Delilik, aynı şeyi tekrar tekrar yapıp farklı sonuçları beklemektir.",
       "createDate": "27.07.1900"
+    },{
+      "userId": 6,
+      "id": 8,
+      "title": "Güç",
+      "body": "Güç gizden gelir yeğen.",
+      "createDate": "27.07.1998"
+    },{
+      "userId": 6,
+      "id": 9,
+      "title": "Aşk",
+      "body": "Kaderimiz olan aşka değil de aşkıyla kaderimizi değiştirene içelim!",
+      "createDate": "27.08.2005"
+    },{
+      "userId": 6,
+      "id": 10,
+      "title": "Geçmiş",
+      "body": "Geçmişe dönmek başka geçmişi silmek başka. Bir kere aktı mı zamanın içinden suyun yolu değişmez.",
+      "createDate": "05.04.2010"
     }
   ],
   "users":[
@@ -80,6 +98,13 @@
       "job":"Artist",
       "ilgi":"Araba, Hız, Kamera",
       "okul":"Foreman Üniversitesi"
+    },{
+      "id": 6,
+      "username": "Tuncel Kurtiz",
+      "email": "ramiz@dayi.com",
+      "job":"Artist",
+      "ilgi":"Felsefe, Kitap",
+      "okul":"Hayat Üniversitesi"
     }
   ]
 }
